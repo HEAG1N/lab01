@@ -36,9 +36,9 @@ Creeam din linia de comandă baza de date drupal_db și utilizatorul bazei de da
 
 În directorul /etc/apache2/sites-available creați fișierul 02-drupal.conf
 
-Pentru a activa configurațiile, am executat comenzile:
-
 <img width="853" src="https://github.com/user-attachments/assets/c62b49e7-1c8a-4f86-8d63-6ccc031c6485" />
+
+Pentru a activa configurațiile, am executat comenzile:
 
 <img width="411" alt="413524932-6f00c0df-21d1-4861-ba66-527de628bbd4" src="https://github.com/user-attachments/assets/e7666131-dd18-457e-8f90-7db96ca57b18" />
 
