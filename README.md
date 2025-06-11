@@ -1,4 +1,4 @@
-<img width="584" alt="413523919-9a12fd41-b61f-4125-bb18-3c970be9ae84" src="https://github.com/user-attachments/assets/2b524374-7531-475d-8028-06accf0ae24d" />IWNO1: Server virtual
+IWNO1: Server virtual
 
 Realizat de: Balea Artiom I2301
 
